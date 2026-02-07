@@ -13,7 +13,7 @@ To-Do List API / Code reliability
 - N/A
 ---
 ## Approach
-- Django API + Python
+- Django API + Python 3.10
 ---
 ## Lessons Learned
 - Learned Django
